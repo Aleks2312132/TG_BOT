@@ -1,1 +1,2 @@
-"name": Bot_Money, "index":1 
+"name": lox, "index":1 
+"name": loxic, "index":2 
